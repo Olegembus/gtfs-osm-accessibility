@@ -1,0 +1,8 @@
+stop_id,stop_code,stop_desc,zone_id,stop_name,stop_lat,stop_lon
+527,527/1,"PRZEMYŚL",0,"29-Go Listopada - Małachowskiego",49.79379,22.77179
+570,570/1,"PRZEMYŚL",0,"29-Go Listopada - Market",49.7945,22.77303
+3,3/1,"PRZEMYŚL",0,"3-Go Maja - Dom Handlowy",49.78782,22.76632
+33,33/1,"PRZEMYŚL",0,"3-Go Maja - Kochanowskiego",49.79731,22.76522
+2,2/1,"PRZEMYŚL",0,"3-Go Maja - Os.hoffmanowej",49.78775,22.76645
+7,7/1,"PRZEMYŚL",0,"3-Go Maja - Popielów",49.79257,22.76578
+

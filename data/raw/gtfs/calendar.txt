@@ -1,0 +1,10 @@
+﻿service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+robocze,20200101,20211231,1,1,1,1,1,0,0
+soboty,20200101,20211231,0,0,0,0,0,1,0
+niedziele,20200101,20211231,0,0,0,0,0,0,1
+niedziele i święta,20200101,20211231,0,0,0,0,0,0,1
+niedziele handlowe,20200101,20211231,0,0,0,0,0,0,0
+niedziele niehandlowe i święta,20200101,20211231,0,0,0,0,0,0,1
+robocze wakacje,20200630,20200902,1,1,1,1,1,0,0
+soboty wakacje,20200630,20200902,0,0,0,0,0,1,0
+niedziele i święta wakacje,20200630,20200902,0,0,0,0,0,0,1

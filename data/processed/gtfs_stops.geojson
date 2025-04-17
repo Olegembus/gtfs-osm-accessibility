@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "gtfs_stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "stop_id": 663, "stop_code": "660/0", "stop_desc": null, "zone_id": 0, "stop_name": "Nehrybka Szkoła - Końcowy", "stop_lat": 49.75259, "stop_lon": 22.80554 }, "geometry": { "type": "Point", "coordinates": [ 22.80554, 49.75259 ] } },
+{ "type": "Feature", "properties": { "stop_id": 665, "stop_code": "662/0", "stop_desc": null, "zone_id": 0, "stop_name": "Rogozińskiego - Brodzińskiego - Końcowy", "stop_lat": 49.79392, "stop_lon": 22.77737 }, "geometry": { "type": "Point", "coordinates": [ 22.77737, 49.79392 ] } },
+{ "type": "Feature", "properties": { "stop_id": 666, "stop_code": "89/2", "stop_desc": null, "zone_id": 0, "stop_name": "Słowackiego - Biblioteka", "stop_lat": 49.78102, "stop_lon": 22.77553 }, "geometry": { "type": "Point", "coordinates": [ 22.77553, 49.78102 ] } },
+{ "type": "Feature", "properties": { "stop_id": 667, "stop_code": "511/3", "stop_desc": null, "zone_id": 0, "stop_name": "Opalińskiego - Os. Kazanów Pętla", "stop_lat": 49.80135, "stop_lon": 22.75356 }, "geometry": { "type": "Point", "coordinates": [ 22.75356, 49.80135 ] } },
+{ "type": "Feature", "properties": { "stop_id": 669, "stop_code": "32/2", "stop_desc": null, "zone_id": 0, "stop_name": "Wysockiego - Dps - Techniczny", "stop_lat": 49.81729, "stop_lon": 22.73625 }, "geometry": { "type": "Point", "coordinates": [ 22.73625, 49.81729 ] } }
+]
+}

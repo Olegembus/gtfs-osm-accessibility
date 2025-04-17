@@ -1,0 +1,433 @@
+﻿exception_type,date,service_id
+1,20180527,niedziele handlowe
+2,20180527,niehandlowe i święta
+1,20180531,niedziele i święta
+1,20180531,niehandlowe i święta
+2,20180531,robocze
+2,20180531,robocze i soboty
+1,20180603,niedziele handlowe
+2,20180603,niehandlowe i święta
+1,20180610,niehandlowe i święta
+2,20180610,niedziele handlowe
+1,20180617,niehandlowe i święta
+2,20180617,niedziele handlowe
+1,20180624,niedziele handlowe
+2,20180624,niehandlowe i święta
+1,20180701,niedziele handlowe
+2,20180701,niehandlowe i święta
+1,20180708,niehandlowe i święta
+2,20180708,niedziele handlowe
+1,20180715,niehandlowe i święta
+2,20180715,niedziele handlowe
+1,20180722,niehandlowe i święta
+2,20180722,niedziele handlowe
+1,20180729,niedziele handlowe
+2,20180729,niehandlowe i święta
+1,20180805,niedziele handlowe
+2,20180805,niehandlowe i święta
+1,20180812,niehandlowe i święta
+2,20180812,niedziele handlowe
+1,20180815,niedziele i święta
+1,20180815,niehandlowe i święta
+2,20180815,robocze
+2,20180815,robocze i soboty
+1,20180819,niehandlowe i święta
+2,20180819,niedziele handlowe
+1,20180826,niedziele handlowe
+2,20180826,niehandlowe i święta
+1,20180902,niedziele handlowe
+2,20180902,niehandlowe i święta
+1,20180909,niehandlowe i święta
+2,20180909,niedziele handlowe
+1,20180916,niehandlowe i święta
+2,20180916,niedziele handlowe
+1,20180923,niehandlowe i święta
+2,20180923,niedziele handlowe
+1,20180930,niedziele handlowe
+2,20180930,niehandlowe i święta
+1,20181007,niedziele handlowe
+2,20181007,niehandlowe i święta
+1,20181014,niehandlowe i święta
+2,20181014,niedziele handlowe
+1,20181021,niehandlowe i święta
+2,20181021,niedziele handlowe
+1,20181028,niedziele handlowe
+2,20181028,niehandlowe i święta
+1,20181101,niedziele i święta
+1,20181101,niehandlowe i święta
+2,20181101,robocze
+2,20181101,robocze i soboty
+1,20181104,niedziele handlowe
+2,20181104,niehandlowe i święta
+1,20181111,niedziele i święta
+1,20181111,niehandlowe i święta
+2,20181111,niedziele handlowe
+1,20181118,niehandlowe i święta
+2,20181118,niedziele handlowe
+1,20181125,niedziele handlowe
+2,20181125,niehandlowe i święta
+1,20181202,niedziele handlowe
+2,20181202,niehandlowe i święta
+1,20181209,niehandlowe i święta
+2,20181209,niedziele handlowe
+1,20181216,niedziele handlowe
+2,20181216,niehandlowe i święta
+1,20181223,niedziele handlowe
+2,20181223,niehandlowe i święta
+1,20181225,niedziele i święta
+1,20181225,niehandlowe i święta
+2,20181225,robocze
+2,20181225,robocze i soboty
+1,20181226,niedziele i święta
+1,20181226,niehandlowe i święta
+2,20181226,robocze
+2,20181226,robocze i soboty
+1,20181230,niedziele handlowe
+2,20181230,niehandlowe i święta
+1,20190101,niedziele i święta
+1,20190101,niehandlowe i święta
+2,20190101,robocze
+2,20190101,robocze i soboty
+1,20190106,niedziele i święta
+1,20190106,niehandlowe i święta
+2,20190106,niedziele handlowe
+1,20190113,niehandlowe i święta
+2,20190113,niedziele handlowe
+1,20190120,niehandlowe i święta
+2,20190120,niedziele handlowe
+1,20190127,niedziele handlowe
+2,20190127,niehandlowe i święta
+1,20190203,niehandlowe i święta
+2,20190203,niedziele handlowe
+1,20190210,niehandlowe i święta
+2,20190210,niedziele handlowe
+1,20190217,niehandlowe i święta
+2,20190217,niedziele handlowe
+1,20190224,niedziele handlowe
+2,20190224,niehandlowe i święta
+1,20190303,niehandlowe i święta
+2,20190303,niedziele handlowe
+1,20190310,niehandlowe i święta
+2,20190310,niedziele handlowe
+1,20190317,niehandlowe i święta
+2,20190317,niedziele handlowe
+1,20190324,niehandlowe i święta
+2,20190324,niedziele handlowe
+1,20190331,niedziele handlowe
+2,20190331,niehandlowe i święta
+1,20190407,niehandlowe i święta
+2,20190407,niedziele handlowe
+1,20190414,niedziele handlowe
+2,20190414,niehandlowe i święta
+1,20190421,niedziele i święta
+1,20190421,niehandlowe i święta
+2,20190421,niedziele handlowe
+1,20190422,niedziele i święta
+1,20190422,niehandlowe i święta
+2,20190422,robocze
+2,20190422,robocze i soboty
+1,20190428,niedziele handlowe
+2,20190428,niehandlowe i święta
+1,20190501,niedziele i święta
+1,20190501,niehandlowe i święta
+2,20190501,robocze
+2,20190501,robocze i soboty
+1,20190503,niedziele i święta
+1,20190503,niehandlowe i święta
+2,20190503,robocze
+2,20190503,robocze i soboty
+1,20190505,niehandlowe i święta
+2,20190505,niedziele handlowe
+1,20190512,niehandlowe i święta
+2,20190512,niedziele handlowe
+1,20190519,niehandlowe i święta
+2,20190519,niedziele handlowe
+1,20190526,niedziele handlowe
+2,20190526,niehandlowe i święta
+1,20190602,niehandlowe i święta
+2,20190602,niedziele handlowe
+1,20190609,niedziele i święta
+1,20190609,niehandlowe i święta
+2,20190609,niedziele handlowe
+1,20190616,niehandlowe i święta
+2,20190616,niedziele handlowe
+1,20190620,niedziele i święta
+1,20190620,niehandlowe i święta
+2,20190620,robocze
+2,20190620,robocze i soboty
+1,20190623,niehandlowe i święta
+2,20190623,niedziele handlowe
+1,20190630,niedziele handlowe
+2,20190630,niehandlowe i święta
+1,20190707,niehandlowe i święta
+2,20190707,niedziele handlowe
+1,20190714,niehandlowe i święta
+2,20190714,niedziele handlowe
+1,20190721,niehandlowe i święta
+2,20190721,niedziele handlowe
+1,20190728,niedziele handlowe
+2,20190728,niehandlowe i święta
+1,20190804,niehandlowe i święta
+2,20190804,niedziele handlowe
+1,20190811,niehandlowe i święta
+2,20190811,niedziele handlowe
+1,20190815,niedziele i święta
+1,20190815,niehandlowe i święta
+2,20190815,robocze
+2,20190815,robocze i soboty
+1,20190818,niehandlowe i święta
+2,20190818,niedziele handlowe
+1,20190825,niedziele handlowe
+2,20190825,niehandlowe i święta
+1,20190901,niehandlowe i święta
+2,20190901,niedziele handlowe
+1,20190908,niehandlowe i święta
+2,20190908,niedziele handlowe
+1,20190915,niehandlowe i święta
+2,20190915,niedziele handlowe
+1,20190922,niehandlowe i święta
+2,20190922,niedziele handlowe
+1,20190929,niedziele handlowe
+2,20190929,niehandlowe i święta
+1,20191006,niehandlowe i święta
+2,20191006,niedziele handlowe
+1,20191013,niehandlowe i święta
+2,20191013,niedziele handlowe
+1,20191020,niehandlowe i święta
+2,20191020,niedziele handlowe
+1,20191027,niedziele handlowe
+2,20191027,niehandlowe i święta
+1,20191101,niedziele i święta
+1,20191101,niehandlowe i święta
+2,20191101,robocze
+2,20191101,robocze i soboty
+1,20191103,niehandlowe i święta
+2,20191103,niedziele handlowe
+1,20191110,niehandlowe i święta
+2,20191110,niedziele handlowe
+1,20191111,niedziele i święta
+1,20191111,niehandlowe i święta
+2,20191111,robocze
+2,20191111,robocze i soboty
+1,20191117,niehandlowe i święta
+2,20191117,niedziele handlowe
+1,20191124,niedziele handlowe
+2,20191124,niehandlowe i święta
+1,20191201,niehandlowe i święta
+2,20191201,niedziele handlowe
+1,20191208,niehandlowe i święta
+2,20191208,niedziele handlowe
+1,20191215,niedziele handlowe
+2,20191215,niehandlowe i święta
+1,20191222,niedziele handlowe
+2,20191222,niehandlowe i święta
+1,20191225,niedziele i święta
+1,20191225,niehandlowe i święta
+2,20191225,robocze
+2,20191225,robocze i soboty
+1,20191226,niedziele i święta
+1,20191226,niehandlowe i święta
+2,20191226,robocze
+2,20191226,robocze i soboty
+1,20191229,niedziele handlowe
+2,20191229,niehandlowe i święta
+1,20200101,niedziele i święta
+1,20200101,niehandlowe i święta
+2,20200101,robocze
+2,20200101,robocze i soboty
+1,20200105,niehandlowe i święta
+2,20200105,niedziele handlowe
+1,20200106,niedziele i święta
+1,20200106,niehandlowe i święta
+2,20200106,robocze
+2,20200106,robocze i soboty
+1,20200112,niehandlowe i święta
+2,20200112,niedziele handlowe
+1,20200119,niehandlowe i święta
+2,20200119,niedziele handlowe
+1,20200126,niehandlowe i święta
+2,20200126,niedziele handlowe
+1,20200202,niehandlowe i święta
+2,20200202,niedziele handlowe
+1,20200209,niehandlowe i święta
+2,20200209,niedziele handlowe
+1,20200216,niehandlowe i święta
+2,20200216,niedziele handlowe
+1,20200223,niehandlowe i święta
+2,20200223,niedziele handlowe
+1,20200301,niehandlowe i święta
+2,20200301,niedziele handlowe
+1,20200308,niehandlowe i święta
+2,20200308,niedziele handlowe
+1,20200315,niehandlowe i święta
+2,20200315,niedziele handlowe
+1,20200322,niehandlowe i święta
+2,20200322,niedziele handlowe
+1,20200329,niehandlowe i święta
+2,20200329,niedziele handlowe
+1,20200405,niehandlowe i święta
+2,20200405,niedziele handlowe
+1,20200412,niedziele i święta
+1,20200412,niehandlowe i święta
+2,20200412,niedziele handlowe
+1,20200413,niedziele i święta
+1,20200413,niehandlowe i święta
+2,20200413,robocze
+2,20200413,robocze i soboty
+1,20200419,niehandlowe i święta
+2,20200419,niedziele handlowe
+1,20200426,niehandlowe i święta
+2,20200426,niedziele handlowe
+1,20200501,niedziele i święta
+1,20200501,niehandlowe i święta
+2,20200501,robocze
+2,20200501,robocze i soboty
+1,20200503,niedziele i święta
+1,20200503,niehandlowe i święta
+2,20200503,niedziele handlowe
+1,20200510,niehandlowe i święta
+2,20200510,niedziele handlowe
+1,20200517,niehandlowe i święta
+2,20200517,niedziele handlowe
+1,20200524,niehandlowe i święta
+2,20200524,niedziele handlowe
+1,20200531,niedziele i święta
+1,20200531,niehandlowe i święta
+2,20200531,niedziele handlowe
+1,20200607,niehandlowe i święta
+2,20200607,niedziele handlowe
+1,20200611,niedziele i święta
+1,20200611,niehandlowe i święta
+2,20200611,robocze
+2,20200611,robocze i soboty
+1,20200614,niehandlowe i święta
+2,20200614,niedziele handlowe
+1,20200621,niehandlowe i święta
+2,20200621,niedziele handlowe
+1,20200628,niehandlowe i święta
+2,20200628,niedziele handlowe
+1,20200705,niehandlowe i święta
+2,20200705,niedziele handlowe
+1,20200712,niehandlowe i święta
+2,20200712,niedziele handlowe
+1,20200719,niehandlowe i święta
+2,20200719,niedziele handlowe
+1,20200726,niehandlowe i święta
+2,20200726,niedziele handlowe
+1,20200802,niehandlowe i święta
+2,20200802,niedziele handlowe
+1,20200809,niehandlowe i święta
+2,20200809,niedziele handlowe
+1,20200815,niedziele i święta
+1,20200815,niehandlowe i święta
+2,20200815,soboty
+2,20200815,robocze i soboty
+1,20200816,niehandlowe i święta
+2,20200816,niedziele handlowe
+1,20200823,niehandlowe i święta
+2,20200823,niedziele handlowe
+1,20200830,niehandlowe i święta
+2,20200830,niedziele handlowe
+1,20200906,niehandlowe i święta
+2,20200906,niedziele handlowe
+1,20200913,niehandlowe i święta
+2,20200913,niedziele handlowe
+1,20200920,niehandlowe i święta
+2,20200920,niedziele handlowe
+1,20200927,niehandlowe i święta
+2,20200927,niedziele handlowe
+1,20201004,niehandlowe i święta
+2,20201004,niedziele handlowe
+1,20201011,niehandlowe i święta
+2,20201011,niedziele handlowe
+1,20201018,niehandlowe i święta
+2,20201018,niedziele handlowe
+1,20201025,niehandlowe i święta
+2,20201025,niedziele handlowe
+1,20201101,niedziele i święta
+1,20201101,niehandlowe i święta
+2,20201101,niedziele handlowe
+1,20201108,niehandlowe i święta
+2,20201108,niedziele handlowe
+1,20201111,niedziele i święta
+1,20201111,niehandlowe i święta
+2,20201111,robocze
+2,20201111,robocze i soboty
+1,20201115,niehandlowe i święta
+2,20201115,niedziele handlowe
+1,20201122,niehandlowe i święta
+2,20201122,niedziele handlowe
+1,20201129,niehandlowe i święta
+2,20201129,niedziele handlowe
+1,20201206,niehandlowe i święta
+2,20201206,niedziele handlowe
+1,20201213,niehandlowe i święta
+2,20201213,niedziele handlowe
+1,20201220,niehandlowe i święta
+2,20201220,niedziele handlowe
+1,20201225,niedziele i święta
+1,20201225,niehandlowe i święta
+2,20201225,robocze
+2,20201225,robocze i soboty
+1,20201226,niedziele i święta
+1,20201226,niehandlowe i święta
+2,20201226,soboty
+2,20201226,robocze i soboty
+1,20201227,niehandlowe i święta
+2,20201227,niedziele handlowe
+1,20210101,niedziele i święta
+1,20210101,niehandlowe i święta
+2,20210101,robocze
+2,20210101,robocze i soboty
+1,20210103,niehandlowe i święta
+2,20210103,niedziele handlowe
+1,20210106,niedziele i święta
+1,20210106,niehandlowe i święta
+2,20210106,robocze
+2,20210106,robocze i soboty
+1,20210110,niehandlowe i święta
+2,20210110,niedziele handlowe
+1,20210117,niehandlowe i święta
+2,20210117,niedziele handlowe
+1,20210124,niehandlowe i święta
+2,20210124,niedziele handlowe
+1,20210131,niehandlowe i święta
+2,20210131,niedziele handlowe
+1,20210207,niehandlowe i święta
+2,20210207,niedziele handlowe
+1,20210214,niehandlowe i święta
+2,20210214,niedziele handlowe
+1,20210221,niehandlowe i święta
+2,20210221,niedziele handlowe
+1,20210228,niehandlowe i święta
+2,20210228,niedziele handlowe
+1,20210307,niehandlowe i święta
+2,20210307,niedziele handlowe
+1,20210314,niehandlowe i święta
+2,20210314,niedziele handlowe
+1,20210321,niehandlowe i święta
+2,20210321,niedziele handlowe
+1,20210328,niehandlowe i święta
+2,20210328,niedziele handlowe
+1,20210404,niehandlowe i święta
+2,20210404,niedziele handlowe
+1,20210411,niehandlowe i święta
+2,20210411,niedziele handlowe
+1,20210418,niehandlowe i święta
+2,20210418,niedziele handlowe
+1,20210425,niehandlowe i święta
+2,20210425,niedziele handlowe
+1,20210501,niedziele i święta
+1,20210501,niehandlowe i święta
+2,20210501,soboty
+2,20210501,robocze i soboty
+1,20210502,niehandlowe i święta
+2,20210502,niedziele handlowe
+1,20210503,niedziele i święta
+1,20210503,niehandlowe i święta
+2,20210503,robocze
+2,20210503,robocze i soboty
+1,20210509,niehandlowe i święta
+2,20210509,niedziele handlowe
+1,20210516,niehandlowe i święta
+2,20210516,niedziele handlowe
